@@ -1,0 +1,28 @@
+while(1)
+{
+char * command;
+cout<<"명령을 입력하세요"<<endl;
+
+
+cin>>command;
+
+
+
+if(strcmpi(command,a)==0)
+{
+
+}
+
+else if(command,b)==0)
+
+
+
+
+else
+{
+cout<<"입력하실수 있는 명령은 a~d입니다."<<endl;
+break';
+}
+|}
+
+return 90;
